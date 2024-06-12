@@ -1,4 +1,5 @@
 # 7-segment-counter
+## video: https://youtu.be/_DNCQPA7jM0
 
 ![image](https://github.com/AdhmElzewel/7-segment-counter/assets/108629950/50dff3fa-b0a8-4800-872c-8abfa98f6417)
 
